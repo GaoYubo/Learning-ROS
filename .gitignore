@@ -1,0 +1,13 @@
+## roboware生成的文件和文件夹
+.ycm_extra_conf.py
+devel_isolated/
+el/
+el_isolated/
+
+
+## catkin生成的文件及文件夹
+devel/
+build/
+
+## vscode配置文件
+.vscode/
