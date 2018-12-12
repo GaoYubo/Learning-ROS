@@ -31,7 +31,7 @@
 **ROS_MASTER_URI**  
 它代表主节点master的地址，也就是运行roscore的设备的地址。(多台设备公用的，唯一的地址)  
 示例如下：  
-![ROS_MASTER_URI](https://github.com/GaoYubo/Learning-ROS/tree/master/pictures/ros_master_url.png)
+![ROS_MASTER_URI](https://github.com/GaoYubo/Learning-ROS/blob/master/pictures/ros_master_url.png?raw=true)
 
 
 ## 同步时间  
